@@ -226,6 +226,7 @@ a:active,
 a:focus,
 a:hover {
     color: #F05F40;
+    outline: none !important;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
